@@ -40,15 +40,15 @@ I’m a passionate data analyst with a love for building innovative solutions, a
 ---
 
 ### 📫 How to Reach Me  
-- 📧 Email: [your email address]  
-- 🌐 LinkedIn: [your LinkedIn profile link]  
+- 📧 Email: jayanathsha@gmail.com  
+- 🌐 LinkedIn: https://www.linkedin.com/in/jayanath-jayarathna-178b19228/  
 - 🐦 Twitter: [your Twitter handle, if applicable]  
 
 ---
 
 ### 🌟 Fun Sections  
 #### **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangikaj80&layout=compact&theme=radical)  
+!python(https://github-readme-stats.vercel.app/api/top-langs/?username=Rangikaj80&layout=compact&theme=radical)  
 
 #### **Quote of the Day**  
 _"The best way to predict the future is to create it."_  
