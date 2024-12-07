@@ -1,16 +1,16 @@
 # Hi there 👋, I'm Jayanath Jayarathna  
 
 ✨ Welcome to my GitHub profile! ✨  
-I’m a passionate [Your Role or Title] with a love for building innovative solutions, analyzing data, and crafting impactful projects.  
+I’m a passionate data analyst with a love for building innovative solutions, analyzing data, and crafting impactful projects.  
 
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **[your current projects or job responsibilities]**.  
-- 🌱 I’m expanding my skills in **[skills/technologies you’re learning]**.  
-- 🤝 I’m open to collaborations in **[areas of interest like data analysis, web development, etc.]**.  
-- 💬 Ask me about **[your areas of expertise]**.  
-- ⚡ Fun fact: **[interesting fact about yourself]**  
+- 🔭 I’m currently working on **Face recognition system**.  
+- 🌱 I’m expanding my skills in **Deep Learning**.  
+- 🤝 I’m open to collaborations in **data science , machine learning, data analysis, web development, etc.**.  
+- 💬 Ask me about **machine learning, python web application development, dashboard creating**.  
+- ⚡ Fun fact: **traveling and learning new technology **  
 
 ---
 
