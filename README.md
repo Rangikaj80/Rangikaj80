@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name Here]  
+# Hi there 👋, I'm Jayanath Jayarathna  
 
 ✨ Welcome to my GitHub profile! ✨  
 I’m a passionate [Your Role or Title] with a love for building innovative solutions, analyzing data, and crafting impactful projects.  
